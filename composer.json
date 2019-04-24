@@ -11,7 +11,13 @@
     ],
     "minimum-stability": "dev",
     "require": {
-     "php": "^7.2",
+      "php": "^7.2",
       "another-vendor/package": "1.*"
+    },
+	 "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://github.com/wisdomboy/romantingmr.git"
+        }
     }
 }
