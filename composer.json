@@ -1,0 +1,17 @@
+{
+    "name": "badne/ssdb",
+    "description": "the first ssdb",
+    "type": "library",
+    "license": "1.0",
+    "authors": [
+        {
+            "name": "Bande Mr",
+            "email": "romantingmr@aliyun.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+     "php": "^7.2",
+      "another-vendor/package": "1.*"
+    }
+}
