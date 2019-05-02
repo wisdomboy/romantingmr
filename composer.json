@@ -1,0 +1,14 @@
+{
+    "name": "bande/demo",
+    "description": "the first packlist",
+    "type": "library",
+    "license": "1.0",
+    "authors": [
+        {
+            "name": "Bande",
+            "email": "romantingmr@aliyun.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
