@@ -2,7 +2,7 @@
     "name": "romantingmr/ssdb",
     "description": "the first ssdb",
     "type": "library",
-    "license": "1.0",
+    "license": "mit",
     "authors": [
         {
             "name": "Bande",
