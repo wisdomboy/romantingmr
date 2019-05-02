@@ -12,8 +12,8 @@
     "minimum-stability": "dev",
     "require": {
 	    "php" : ">=5.3"
-	},
-	"autoload": {
+    },
+    "autoload": {
         "psr-4": {
             "demo\\" : "src/"
         }
