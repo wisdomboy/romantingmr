@@ -12,9 +12,9 @@
     "minimum-stability": "dev",
     "require": {
 	    "php" : ">=5.3",
-		"romantingmr/ssdb" => "dev-master"
+		"romantingmr/ssdb": "dev-master"
 	},
-	"autoload": {
+    "autoload": {
         "psr-4": {
             "demo\\" : "src/"
         }
