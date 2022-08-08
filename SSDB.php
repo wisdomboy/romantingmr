@@ -7,6 +7,7 @@
  *
  * SSDB PHP client SDK.
  */
+namespace ssdb;
 
 class SSDBException extends Exception
 {
